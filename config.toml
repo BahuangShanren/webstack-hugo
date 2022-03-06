@@ -7,13 +7,22 @@ disablePathToLower = true
 hasCJKLanguage = true
 copyright = "八荒山人"
 [params]
-  author = "八荒山人"
-  description = "使用Webstack Hugo的导航站"
-  # 用于Open Graph和Twitter Card
-  images = ['/images/Preview.png']
-  # 右上角的GitHub链接
-  github = "https://github.com/BahuangShanren/navigation"
+author = "八荒山人"
+description = "使用Webstack Hugo的导航站"
+# 用于Open Graph和Twitter Card
+images = ['/images/Preview.png']
+# 右上角的GitHub链接
+github = "https://github.com/BahuangShanren/navigation"
 [params.search]
-  enable = true
+enable = true
 [params.darkmode]
-  enable = false
+enable = false
+# 网站所有权验证
+[params.verification]
+google = ""
+bing = ""
+yandex = ""
+pinterest = ""
+baidu = ""
+so = ""
+sogou = ""
