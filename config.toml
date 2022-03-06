@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://bahuangshanren.github.io/webstack-hugo"
 languageCode = "zh-CN"
 title = "八荒山人导航"
 theme = "webstack-2"
@@ -9,7 +9,10 @@ copyright = "八荒山人"
 [params]
   author = "八荒山人"
   description = "使用Webstack Hugo的导航站"
-  images = ['/Preview.png']
+  # 用于Open Graph和Twitter Card
+  images = ['/images/Preview.png']
+  # 右上角的GitHub链接
+  github = "https://github.com/BahuangShanren/navigation"
 [params.search]
   enable = true
 [params.darkmode]
