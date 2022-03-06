@@ -177,7 +177,7 @@ a:focus {
 .xe-comment-entry img {
     float: left;
     display: block;
-    background: rgba(136, 136, 136, .15);
+    /* background: rgba(136, 136, 136, .15); */
     margin-right: 10px
 }
 
