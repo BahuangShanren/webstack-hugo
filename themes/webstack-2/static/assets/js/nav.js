@@ -1,6 +1,3 @@
-/*! Hugo版WebStack主题 - v2.0.0
-* https://github.com/iplaycode/webstack-hugo/ */
-console.log("\n %c Hugo版WebStack主题 %c https://github.com/iplaycode/webstack-hugo/ \n", "color: #ffffff; background: #f44336; padding:5px 0;", "background: #030303; padding:5px 0;");
 var public_vars = public_vars || {};
 jQuery.extend(public_vars, {
 	breakpoints: {
