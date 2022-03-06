@@ -1,14 +1,14 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "八荒山人导航"
 theme = "webstack-2"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
-copyright = ""
+copyright = "八荒山人"
 [params]
-  author = "iplaycode"
-  description = "Webstack Hugo"
+  author = "八荒山人"
+  description = "使用Webstack Hugo的导航站"
 [params.search]
   enable = true
 [params.darkmode]
