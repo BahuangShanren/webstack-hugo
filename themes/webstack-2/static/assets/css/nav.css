@@ -1751,8 +1751,8 @@ input[type="submit"] {
 
 /* --- search --- */
 #search {
-    max-width: 717px;
-    margin: 100px auto 14px
+    max-width: 60%;
+    margin: 0 auto 0 75px
 }
 
 #search form {
