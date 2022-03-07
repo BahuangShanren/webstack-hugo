@@ -1,7 +1,7 @@
 baseURL = "http://bahuangshanren.github.io/webstack-hugo"
 languageCode = "zh-CN"
 title = "八荒山人导航"
-theme = "webstack-2"
+theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
