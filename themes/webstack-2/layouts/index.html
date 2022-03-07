@@ -49,7 +49,7 @@
     <script type='text/javascript' src='./assets/js/jquery-1.11.1.min.js'></script>
 </head>
 
-<body class="page-body {{ if .Site.Params.darkmode.enable }}black{{ else }}white{{ end }}">
+<body class="page-body">
     <div class="page-container">
         <div class="sidebar-menu toggle-others fixed">
             <div class="sidebar-menu-inner">
@@ -268,6 +268,17 @@
                         <i class="fa fa-angle-up"></i>
                     </a>
                 </div>
+                <div class="theme-button">
+                    <a href="#" onclick="darkmode()" rel="theme-button">
+                        <i class="fa fa-adjust"></i>
+                    </a>
+                </div>
+                <script>
+                    function darkmode() {
+                        var element = document.body;
+                        element.classList.toggle("black");
+                    }
+                </script>
                 <div class="footer-inner">
                     <div class="footer-text">
                         © {{ now.Format "2006"}} <a href="https://github.com/BahuangShanren"><strong>{{ if

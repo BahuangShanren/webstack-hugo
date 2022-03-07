@@ -382,7 +382,7 @@ footer.main-footer .footer-inner:after,
     }
 }
 
-footer.main-footer .go-up {
+footer.main-footer .go-up, .theme-button {
     width: 45px;
     float: right;
     position: fixed;
@@ -394,7 +394,11 @@ footer.main-footer .go-up {
     list-style: none
 }
 
-footer.main-footer .go-up a {
+.theme-button{
+    bottom: 80px;
+}
+
+footer.main-footer .go-up a, .theme-button a {
     display: inline-block;
     width: 35px;
     height: 35px;
@@ -407,7 +411,7 @@ footer.main-footer .go-up a {
     padding: 0
 }
 
-footer.main-footer .go-up a:hover {
+footer.main-footer .go-up a:hover, .theme-button a:hover {
     background-color: rgba(44, 46, 47, .1)
 }
 

@@ -20,10 +20,6 @@ copyright = "八荒山人"
 [params.search]
   enable = true
 
-[params.darkmode]
-  enable = false
-  # enable = true
-
 # 网站所有权验证
 [params.verification]
   google = ""
