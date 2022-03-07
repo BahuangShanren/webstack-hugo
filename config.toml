@@ -21,8 +21,8 @@ copyright = "八荒山人"
   enable = true
 
 [params.darkmode]
-  # enable = false
-  enable = true
+  enable = false
+  # enable = true
 
 # 网站所有权验证
 [params.verification]
