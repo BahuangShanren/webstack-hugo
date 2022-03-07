@@ -1766,7 +1766,7 @@ input[type="submit"] {
     font-size: 1pc;
     border: 0;
     border-radius: 3px;
-    background-color: #fff
+    background-color: #F5F5F5
 }
 
 #search button {
@@ -1867,7 +1867,7 @@ input[type="submit"] {
 
 .search-type input:checked+label,
 .search-type input:hover+label {
-    background-color: #fff
+    background-color: #F5F5F5
 }
 
 .set-check {
