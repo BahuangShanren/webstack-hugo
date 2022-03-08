@@ -80,7 +80,10 @@
                         <ul>
                             {{ range .list }}
                             <li>
-                                <a href="#{{ md5 .term }}" class="smooth">{{ .term }}</a>
+                                <a href="#{{ md5 .term }}" class="smooth">
+                                    <i class="fa {{ .icon }} fa-fw"></i>
+                                    <span class="title">{{ .term }}</span>
+                                </a>
                             </li>
                             {{ end }}
                         </ul>
@@ -164,7 +167,7 @@
                 {{ if .list }}
                 {{ range .list }}
                 <!-- {{ .term }} -->
-                <h4 class="text-gray" style="display: inline-block;"><i class="icon-io-tag" style="margin-right: 27px;"
+                <h4 class="text-gray" style="display: inline-block;"><i class="fa {{ .icon }} fa-fw" style="margin-right: 27px;"
                         id="{{ md5 .term }}"></i>{{ .term }}</h4>
                 <div class="row">
                     {{ range .links }}
@@ -213,7 +216,7 @@
                 {{ end }}
                 {{ else }}
                 <!-- {{ .taxonomy }} -->
-                <h4 class="text-gray" style="display: inline-block;"><i class="icon-io-tag" style="margin-right: 27px;"
+                <h4 class="text-gray" style="display: inline-block;"><i class="fa {{ .icon }} fa-fw" style="margin-right: 27px;"
                         id="{{ md5 .taxonomy }}"></i>{{ .taxonomy }}</h4>
                 <div class="row">
                     {{ range .links }}
