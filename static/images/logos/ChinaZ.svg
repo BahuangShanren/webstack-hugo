@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1465px" height="1465px" viewBox="0 0 1465 1465" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="ChinaZ" transform="translate(10 10)">
+    <path d="M0 722.5C0 323.474 323.474 0 722.5 0C1121.53 0 1445 323.474 1445 722.5C1445 1121.53 1121.53 1445 722.5 1445C323.474 1445 0 1121.53 0 722.5Z" id="Ellipse" fill="none" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(222 222)">
+      <path d="M0 0L1000 0L1000 1000L0 1000L0 0Z" id="Rectangle" fill="none" fill-rule="evenodd" stroke="#2660AD" stroke-width="20" />
+      <path d="M998.75 836.009L223.589 998.75L788.9 95.1097L870.27 287.829L611.17 707.529L966.63 611.17L998.75 836.009Z" id="blue" fill="#2660AD" fill-rule="evenodd" stroke="none" />
+      <path d="M1.25 163.991L776.411 1.25L211.1 904.89L129.73 712.171L388.83 292.471L33.3699 388.83L1.25 163.991Z" id="yellow" fill="#FDD000" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

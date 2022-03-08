@@ -6,22 +6,22 @@
     - title: 哔哩哔哩
       logo: images/logos/Bilibili.svg
       url: https://www.bilibili.com/
-      description: 
+      description: (゜-゜)つロ 乾杯~
 
     - title: 知乎
       logo: images/logos/Zhihu.svg
       url: https://www.zhihu.com/hot
       description: 
 
-    - title: Stars
+    - title: GitHub Repos
       logo: images/logos/Github.svg
-      url: https://github.com/BahuangShanren?tab=stars
-      description: 我的GitHub Stars
+      url: https://github.com/BahuangShanren?tab=repositories
+      description: 
 
-    - title: Gitee
+    - title: Gitee Repos
       logo: images/logos/Gitee.svg
       url: https://gitee.com/BahuangShanren/projects
-      description: 我的Gitee Repositories
+      description: 
 
     - title: 力扣
       logo: images/logos/Leetcode.svg
@@ -37,6 +37,11 @@
       logo: images/logos/Algorithm-Visualizer.svg
       url: https://algorithm-visualizer.org/
       description: 自定义算法动态可视化
+
+    - title: Typing practice
+      logo: images/logos/Keybr.svg
+      url: https://www.keybr.com/
+      description: 
 
     - title: DeepL翻译
       logo: images/logos/DeepL.svg
@@ -184,16 +189,6 @@
           url: http://www.html22.com/zh/
           description: 即baiduvvv
 
-        - title: 北斗豆丁文档下载
-          logo: images/logos/Docin365.svg
-          url: https://www.docin365.com/
-          description: 
-
-        - title: 松鼠文库
-          logo: images/logos/Songshu-Wenku.svg
-          url: http://wk.superlgr.com/
-          description: 
-
         - title: 巴法文库下载
           logo: images/logos/Default.svg
           url: http://wenku.bemfa.com/
@@ -324,11 +319,6 @@
           url: https://smsreceivefree.com/
           description: 
 
-#        - title: 隐私短信
-#          logo: images/logos/Yinsiduanxin.svg
-#          url: https://www.yinsiduanxin.com/
-#          description: 
-
         - title: ZUSMS
           logo: images/logos/zusms.svg
           url: https://www.zusms.com/
@@ -342,11 +332,6 @@
         - title: 云短信
           logo: images/logos/Yunduanxin.svg
           url: https://yunduanxin.net/
-          description: 
-
-        - title: Material Tools
-          logo: images/logos/MaterialTools.svg
-          url: https://www.materialtools.com/
           description: 
 
         - title: Z-SMS
@@ -577,12 +562,12 @@
 
         - title: 西部世界
           logo: images/logos/WestWorld.svg
-          url: https://xbsj5632.website/
+          url: https://sjssr.fun/
           description: 域名经常换。TG关注@westworldss防走丢
 
         - title: 金坷垃
           logo: images/logos/Cloud.svg
-          url: https://www.jinkela.best/user
+          url: https://jinkela.wtf/
           description: 超实惠的机场
 
     - term: 软件解析
@@ -624,9 +609,9 @@
           url: https://dns.console.aliyun.com/#/dns/domainList
           description: 
 
-        - title: Ping.cn
-          logo: images/logos/Ping.svg
-          url: https://www.ping.cn/
+        - title: 站长工具
+          logo: images/logos/ChinaZ.svg
+          url: https://ntool.chinaz.com/tools/nav
           description: 
 
         - title: DNS Checker
@@ -659,7 +644,7 @@
       links:
         - title: jsDelivr图床
           logo: images/logos/jsDelivr.svg
-          url: https://cdn.jsdelivr.net/gh/BahuangShanren/picture@master/
+          url: https://cdn.jsdelivr.net/gh/BahuangShanren/picture@latest/
           description: 我的图床CDN
 
         - title: FreeSSL
@@ -743,9 +728,9 @@
           url: https://www.bing.com/webmasters/
           description: 
 
-        - title: Yandex Connect
-          logo: images/logos/Yandex-Connect.svg
-          url: https://connect.yandex.com/
+        - title: Yandex webmaster
+          logo: images/logos/Yandex-Webmaster.svg
+          url: https://webmaster.yandex.ru/
           description: 
 
 - taxonomy: 设计
@@ -1192,7 +1177,7 @@
 
         - title: 美寄词云
           logo: images/logos/Moage.svg
-          url: https://www.moage.cn/
+          url: https://www.tufu.net/
           description: 
 
         - title: Matrix文字雨
@@ -1438,9 +1423,9 @@
           url: https://vip.bljiex.com/
           description: 
 
-        - title: 九八看解析
+        - title: 九州影院
           logo: images/logos/Default.svg
-          url: https://jx.youyitv.com/?url=
+          url: http://www.unss.net/
           description: 
 
         - title: Play m3u8解析
@@ -1567,7 +1552,7 @@
 
     - title: 世界数字图书馆
       logo: images/logos/WDL.svg
-      url: https://www.wdl.org/zh/
+      url: https://www.loc.gov/
       description: 
 
     - title: 全国图书馆参考咨询联盟
@@ -1628,7 +1613,7 @@
   links:
     - title: GGAC_CG分享
       logo: images/logos/GGAC.svg
-      url: https://www.ggac.net/
+      url: https://www.ggac.com/
       description: 国内精美CG作品
 
     - title: PixivIC
