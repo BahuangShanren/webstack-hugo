@@ -13,6 +13,26 @@
       url: https://www.zhihu.com/hot
       description: 
 
+    - title: DeepL翻译
+      logo: images/logos/DeepL.svg
+      url: https://www.deepl.com/zh/translator
+      description: 
+
+    - title: 百度翻译
+      logo: images/logos/Baidu-Translator.svg
+      url: https://fanyi.baidu.com/
+      description: 
+
+    - title: GitHub Stars
+      logo: images/logos/Github.svg
+      url: https://github.com/BahuangShanren?tab=stars
+      description: 
+
+    - title: Gitee Stars
+      logo: images/logos/Gitee.svg
+      url: https://gitee.com/BahuangShanren/starred
+      description: 
+
     - title: GitHub Repos
       logo: images/logos/Github.svg
       url: https://github.com/BahuangShanren?tab=repositories
@@ -41,16 +61,6 @@
     - title: Typing practice
       logo: images/logos/Keybr.svg
       url: https://www.keybr.com/
-      description: 
-
-    - title: DeepL翻译
-      logo: images/logos/DeepL.svg
-      url: https://www.deepl.com/zh/translator
-      description: 
-
-    - title: 百度翻译
-      logo: images/logos/Baidu-Translator.svg
-      url: https://fanyi.baidu.com/
       description: 
 
 - taxonomy: 云盘
@@ -905,20 +915,45 @@
     - term: 色库
       icon: fa-dashboard
       links:
+        - title: Encycolorpedia
+          logo: images/logos/Encycolorpedia.svg
+          url: https://encycolorpedia.cn/
+          description: 十六进制颜色表以及调色搭配
+
         - title: 中国色
           logo: images/logos/ZhongGuoSe.svg
           url: http://zhongguose.com/
           description: 具有中国特色的色库
 
+        - title: Colorable
+          logo: images/logos/Default.svg
+          url: https://colorable.jxnblk.com/
+          description: 背景色与文字颜色对比
+
+        - title: Couleur
+          logo: images/logos/Default.svg
+          url: https://couleur.io/
+          description: 45°增量旋转调色板
+
+        - title: Color Hunt
+          logo: images/logos/Default.svg
+          url: https://colorhunt.co/
+          description: 
+
+        - title: ColorSpace
+          logo: images/logos/Default.svg
+          url: https://mycolor.space/
+          description: 
+
+        - title: Hyper Color
+          logo: images/logos/Default.svg
+          url: https://hypercolor.dev/
+          description: 渐变色库
+
         - title: WebGradients
           logo: images/logos/WebGradients.svg
           url: https://webgradients.com/
           description: 渐变色库
-
-        - title: Encycolorpedia
-          logo: images/logos/Encycolorpedia.svg
-          url: https://encycolorpedia.cn/
-          description: 十六进制颜色表以及调色搭配
 
     - term: 航拍
       icon: fa-camera
