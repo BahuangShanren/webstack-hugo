@@ -762,12 +762,17 @@
         - title: Font Awesome 4
           logo: images/logos/FontAwesome4.svg
           url: https://fontawesome.dashgame.com/
-          description: 知名图标库
+          description: 知名图标库，中文
 
         - title: Font Awesome 5
           logo: images/logos/FontAwesome5.svg
-          url: https://fa5.dashgame.com/#/%E5%9B%BE%E6%A0%87
-          description: 知名图标库
+          url: https://fa5.dashgame.com/
+          description: 知名图标库，中文
+
+        - title: Font Awesome 6
+          logo: images/logos/FontAwesome6.svg
+          url: https://fontawesome.com/icons
+          description: 知名图标库，英文
 
         - title: Icons8
           logo: images/logos/Icons8.svg
