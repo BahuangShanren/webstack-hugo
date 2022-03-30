@@ -192,7 +192,7 @@
                     </div>
                     {{ else }}
                     <div class="xe-card col-sm-4 col-md-3 ">
-                        <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info"
+                        <a href="{{ .url }}" target="_blank" rel="noopener noreffer" class="xe-widget xe-conversations box2 label-info"
                             data-toggle="tooltip" data-placement="bottom" title="{{ .url }}">
                             <div class="xe-comment-entry">
                                 <div class="xe-user-img">
@@ -241,7 +241,7 @@
                     </div>
                     {{ else }}
                     <div class="xe-card col-sm-4 col-md-3 ">
-                        <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info"
+                        <a href="{{ .url }}" target="_blank" rel="noopener noreffer" class="xe-widget xe-conversations box2 label-info"
                             data-toggle="tooltip" data-placement="bottom" title="{{ .url }}">
                             <div class="xe-comment-entry">
                                 <div class="xe-user-img">
@@ -281,7 +281,7 @@
                         © {{ now.Format "2006"}} <a href="https://github.com/BahuangShanren"><strong>{{ if
                                 .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}八荒山人{{ end
                                 }}</strong></a>&nbsp;&nbsp;Themes by <a href="https://github.com/iplaycode"
-                            target="_blank"><strong>iplaycode</strong></a>
+                            target="_blank" rel="noopener noreffer"><strong>iplaycode</strong></a>
                     </div>
                 </div>
             </footer>

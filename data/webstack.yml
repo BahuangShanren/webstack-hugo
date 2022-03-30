@@ -13,9 +13,9 @@
       url: https://www.zhihu.com/hot
       description: 
 
-    - title: DeepL翻译
-      logo: images/logos/DeepL.svg
-      url: https://www.deepl.com/zh/translator
+    - title: V2EX
+      logo: images/logos/V2EX.svg
+      url: https://v2ex.com/
       description: 
 
     - title: 百度翻译
@@ -23,44 +23,34 @@
       url: https://fanyi.baidu.com/
       description: 
 
-    - title: GitHub Stars
-      logo: images/logos/Github.svg
-      url: https://github.com/BahuangShanren?tab=stars
-      description: 
-
-    - title: Gitee Stars
-      logo: images/logos/Gitee.svg
-      url: https://gitee.com/BahuangShanren/starred
-      description: 
-
     - title: GitHub Repos
       logo: images/logos/Github.svg
       url: https://github.com/BahuangShanren?tab=repositories
-      description: 
+      description: BahuangShanren's Repos
 
     - title: Gitee Repos
       logo: images/logos/Gitee.svg
       url: https://gitee.com/BahuangShanren/projects
-      description: 
+      description: BahuangShanren's Repos
 
-    - title: 力扣
-      logo: images/logos/Leetcode.svg
-      url: https://leetcode-cn.com/
-      description: 
+    - title: GitHub Stars
+      logo: images/logos/Github.svg
+      url: https://github.com/BahuangShanren?tab=stars
+      description: BahuangShanren's Stars
 
-    - title: Visual Go
-      logo: images/logos/VisualGo.svg
-      url: https://visualgo.net/zh
-      description: 数据结构和算法动态可视化
-
-    - title: Algorithm-Visualizer
-      logo: images/logos/Algorithm-Visualizer.svg
-      url: https://algorithm-visualizer.org/
-      description: 自定义算法动态可视化
+    - title: Gitee Stars
+      logo: images/logos/Gitee.svg
+      url: https://gitee.com/BahuangShanren/starred
+      description: BahuangShanren's Stars
 
     - title: Typing practice
       logo: images/logos/Keybr.svg
       url: https://www.keybr.com/
+      description: 
+
+    - title: 腾讯云
+      logo: images/logos/Tencent-Cloud.svg
+      url: https://cloud.tencent.com/
       description: 
 
 - taxonomy: 云盘
@@ -89,24 +79,6 @@
 - taxonomy: 邮箱
   icon: fa-envelope
   list: 
-    - term: 临时邮箱
-      icon: fa-envelope-open
-      links:
-        - title: 临时邮箱
-          logo: images/logos/Linshiyouxiang.svg
-          url: https://linshiyouxiang.net/
-          description: 
-
-        - title: Temp-Mail
-          logo: images/logos/TempMail.svg
-          url: https://temp-mail.org/zh/
-          description: 
-
-        - title: Moakt
-          logo: images/logos/Moakt.svg
-          url: https://www.moakt.com/zh/mail
-          description: 
-
     - term: 常用邮箱
       icon: fa-envelope
       links:
@@ -138,6 +110,24 @@
         - title: Protonmail
           logo: images/logos/ProtonMail.svg
           url: https://protonmail.com/zh-Hans/
+          description: 
+
+    - term: 临时邮箱
+      icon: fa-envelope-open
+      links:
+        - title: 临时邮箱
+          logo: images/logos/Linshiyouxiang.svg
+          url: https://linshiyouxiang.net/
+          description: 
+
+        - title: Temp-Mail
+          logo: images/logos/TempMail.svg
+          url: https://temp-mail.org/zh/
+          description: 
+
+        - title: Moakt
+          logo: images/logos/Moakt.svg
+          url: https://www.moakt.com/zh/mail
           description: 
 
 - taxonomy: 文件
@@ -212,6 +202,11 @@
     - term: 文字编辑
       icon: fa-edit
       links:
+        - title: DeepL翻译
+          logo: images/logos/DeepL.svg
+          url: https://www.deepl.com/zh/translator
+          description: 
+
         - title: 秘塔写作猫
           logo: images/logos/Xiezuocat.svg
           url: https://xiezuocat.com/#/
@@ -312,128 +307,6 @@
           logo: images/logos/PPTsotary.svg
           url: http://ppt.sotary.com/
           description: 
-
-- taxonomy: 工具
-  icon: fa-wrench
-  list: 
-    - term: 临时短信
-      icon: fa-commenting
-      links:
-        - title: 在线接收短信
-          logo: images/logos/Jieduanxin.svg
-          url: https://jieduanxin.com/
-          description: 
-
-        - title: SMS Receive Free
-          logo: images/logos/SMSreceivefree.svg
-          url: https://smsreceivefree.com/
-          description: 
-
-        - title: ZUSMS
-          logo: images/logos/zusms.svg
-          url: https://www.zusms.com/
-          description: 
-
-        - title: 超级云短信
-          logo: images/logos/bfkdim.svg
-          url: https://www.bfkdim.com/
-          description: 
-
-        - title: 云短信
-          logo: images/logos/Yunduanxin.svg
-          url: https://yunduanxin.net/
-          description: 
-
-        - title: Z-SMS
-          logo: images/logos/Default.svg
-          url: http://www.z-sms.com/
-          description: 
-
-    - term: 工具箱
-      icon: fa-cogs
-      links:
-        - title: All To All
-          logo: images/logos/AllToAll.svg
-          url: https://www.alltoall.net/
-          description: 
-
-        - title: 8kmm工具箱
-          logo: images/logos/8kmm.svg
-          url: https://tool.8kmm.com/
-          description: 
-
-        - title: Toolfk
-          logo: images/logos/Toolfk.svg
-          url: https://www.toolfk.com/
-          description: 
-
-        - title: MikuTools
-          logo: images/logos/MikuTools.svg
-          url: https://tools.miku.ac/
-          description: 
-
-    - term: 工具~杂
-      icon: fa-wrench
-      links:
-        - title: 微软账号授权管理
-          logo: images/logos/Microsoft.svg
-          url: https://account.live.com/consent/Manage
-          description: 
-
-        - title: QQ账号授权管理
-          logo: images/logos/QQ.svg
-          url: https://connect.qq.com/manage.html#/appauth/user?
-          description: 
-
-        - title: 草料二维码
-          logo: images/logos/Caoliao-QRcode.svg
-          url: https://cli.im/
-          description: 
-
-        - title: 网易见外工作台
-          logo: images/logos/Wangyi-JianWai.svg
-          url: https://jianwai.netease.com/index/0
-          description: 
-
-        - title: 99参考计算网
-          logo: images/logos/99CanKao.svg
-          url: https://www.99cankao.com/
-          description: 
-
-        - title: VirusTotal
-          logo: images/logos/VirusTotal.svg
-          url: https://www.virustotal.com/#/home/upload
-          description: 在线多引擎扫描病毒
-
-        - title: 腾讯哈勃
-          logo: images/logos/Tencent-HABO.svg
-          url: https://habo.qq.com/
-          description: 在线扫描病毒
-
-        - title: 腾讯移动安全实验室
-          logo: images/logos/Tencent-Security.svg
-          url: https://m.qq.com/security_lab/scans_online.jsp
-          description: 在线扫描手机软件
-
-        - title: 压缩CSS和JS
-          logo: images/logos/CSS-JS.svg
-          url: https://www.css-js.com/
-          description: 
-
-        - title: 测速网
-          logo: images/logos/SpeedTest.svg
-          url: https://www.speedtest.cn/
-          description: 测试网速
-
-        - title: Greasy Fork
-          logo: images/logos/GreasyFork.svg
-          url: https://greasyfork.org/zh-CN
-          description: 油猴脚本
-
-        - title: 微信公众平台
-          logo: images/logos/WeChat.svg
-          url: https://mp.weixin.qq.com/
-          description:
 
 - taxonomy: IT
   icon: fa-desktop
@@ -602,6 +475,57 @@
           logo: images/logos/ITellYou.svg
           url: https://next.itellyou.cn/Original/Index
           description: 电脑系统正版镜像
+
+    - term: 扫描病毒
+      icon: fa-exclamation-triangle
+      links:
+        - title: VirusTotal
+          logo: images/logos/VirusTotal.svg
+          url: https://www.virustotal.com/#/home/upload
+          description: 在线多引擎扫描病毒
+
+        - title: 腾讯哈勃
+          logo: images/logos/Tencent-HABO.svg
+          url: https://habo.qq.com/
+          description: 在线扫描病毒
+
+        - title: 腾讯移动安全实验室
+          logo: images/logos/Tencent-Security.svg
+          url: https://m.qq.com/security_lab/scans_online.jsp
+          description: 在线扫描手机软件
+
+    - term: 临时短信
+      icon: fa-commenting
+      links:
+        - title: 在线接收短信
+          logo: images/logos/Jieduanxin.svg
+          url: https://jieduanxin.com/
+          description: 
+
+        - title: SMS Receive Free
+          logo: images/logos/SMSreceivefree.svg
+          url: https://smsreceivefree.com/
+          description: 
+
+        - title: ZUSMS
+          logo: images/logos/zusms.svg
+          url: https://www.zusms.com/
+          description: 
+
+        - title: 超级云短信
+          logo: images/logos/bfkdim.svg
+          url: https://www.bfkdim.com/
+          description: 
+
+        - title: 云短信
+          logo: images/logos/Yunduanxin.svg
+          url: https://yunduanxin.net/
+          description: 
+
+        - title: Z-SMS
+          logo: images/logos/Default.svg
+          url: http://www.z-sms.com/
+          description: 
 
 - taxonomy: 建站
   icon: fa-sitemap
@@ -1705,3 +1629,66 @@
       logo: images/logos/Keybr.svg
       url: https://www.keybr.com/
       description: 
+
+- taxonomy: 其他
+  icon: fa-cogs
+  links:
+    - title: All To All
+      logo: images/logos/AllToAll.svg
+      url: https://www.alltoall.net/
+      description: 
+
+    - title: 8kmm工具箱
+      logo: images/logos/8kmm.svg
+      url: https://tool.8kmm.com/
+      description: 
+
+    - title: Toolfk
+      logo: images/logos/Toolfk.svg
+      url: https://www.toolfk.com/
+      description: 
+
+    - title: MikuTools
+      logo: images/logos/MikuTools.svg
+      url: https://tools.miku.ac/
+      description: 
+
+    - title: 微信公众平台
+      logo: images/logos/WeChat.svg
+      url: https://mp.weixin.qq.com/
+      description:
+
+    - title: 网易见外工作台
+      logo: images/logos/Wangyi-JianWai.svg
+      url: https://jianwai.netease.com/index/0
+      description: 
+
+    - title: 草料二维码
+      logo: images/logos/Caoliao-QRcode.svg
+      url: https://cli.im/
+      description: 
+
+    - title: 99参考计算网
+      logo: images/logos/99CanKao.svg
+      url: https://www.99cankao.com/
+      description: 
+
+    - title: 压缩CSS和JS
+      logo: images/logos/CSS-JS.svg
+      url: https://www.css-js.com/
+      description: 
+
+    - title: SpeedTest
+      logo: images/logos/SpeedTest.svg
+      url: https://www.speedtest.net/
+      description: Ookla speedtest.net
+
+    - title: SpeedTest
+      logo: images/logos/SpeedTest.svg
+      url: https://www.speedtest.cn/
+      description: 巨擎 speedtest.cn
+
+    - title: Greasy Fork
+      logo: images/logos/GreasyFork.svg
+      url: https://greasyfork.org/zh-CN
+      description: 油猴脚本
