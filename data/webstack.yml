@@ -652,14 +652,24 @@
           url: https://ziyuan.baidu.com/
           description: 
 
+        - title: Bing Webmaster Tools
+          logo: images/logos/Bing.svg
+          url: https://www.bing.com/webmasters/
+          description: 
+
         - title: Google search console
           logo: images/logos/Google-SearchConsole.svg
           url: https://search.google.com/search-console/
           description: 
 
-        - title: Bing Webmaster Tools
-          logo: images/logos/Bing.svg
-          url: https://www.bing.com/webmasters/
+        - title: 360站长平台
+          logo: images/logos/360-SO.svg
+          url: https://zhanzhang.so.com/
+          description: 
+
+        - title: 搜狗资源平台
+          logo: images/logos/Sogou.svg
+          url: https://zhanzhang.sogou.com/
           description: 
 
         - title: Yandex webmaster
