@@ -16,6 +16,11 @@
     - title: V2EX
       logo: images/logos/V2EX.svg
       url: https://v2ex.com/
+      description: 创意工作者们的社区
+
+    - title: 腾讯云控制台
+      logo: images/logos/Tencent-Cloud.svg
+      url: https://console.cloud.tencent.com/developer
       description: 
 
     - title: 百度翻译
@@ -23,34 +28,14 @@
       url: https://fanyi.baidu.com/
       description: 
 
-    - title: GitHub Repos
-      logo: images/logos/Github.svg
-      url: https://github.com/BahuangShanren?tab=repositories
-      description: BahuangShanren's Repos
-
-    - title: Gitee Repos
-      logo: images/logos/Gitee.svg
-      url: https://gitee.com/BahuangShanren/projects
-      description: BahuangShanren's Repos
-
-    - title: GitHub Stars
-      logo: images/logos/Github.svg
-      url: https://github.com/BahuangShanren?tab=stars
-      description: BahuangShanren's Stars
-
-    - title: Gitee Stars
-      logo: images/logos/Gitee.svg
-      url: https://gitee.com/BahuangShanren/starred
-      description: BahuangShanren's Stars
+    - title: DeepL翻译
+      logo: images/logos/DeepL.svg
+      url: https://www.deepl.com/zh/translator
+      description: 
 
     - title: Typing practice
       logo: images/logos/Keybr.svg
       url: https://www.keybr.com/
-      description: 
-
-    - title: 腾讯云
-      logo: images/logos/Tencent-Cloud.svg
-      url: https://cloud.tencent.com/
       description: 
 
 - taxonomy: 云盘
@@ -1372,11 +1357,6 @@
           url: https://jx.618g.com/?url=
           description: 
 
-        - title: 诺讯解析
-          logo: images/logos/Default.svg
-          url: https://www.nxflv.com/?url=
-          description: 
-
         - title: 硕鼠视频
           logo: images/logos/Default.svg
           url: http://www.flvcd.com/
@@ -1392,11 +1372,6 @@
           url: https://www.ckmov.vip/
           description: 
 
-        - title: BL解析
-          logo: images/logos/Default.svg
-          url: https://vip.bljiex.com/
-          description: 
-
         - title: 九州影院
           logo: images/logos/Default.svg
           url: http://www.unss.net/
@@ -1410,11 +1385,6 @@
         - title: Mao播放器
           logo: images/logos/Default.svg
           url: https://www.mtosz.com/m3u8.php?url=
-          description: 
-
-        - title: 小蒋解析
-          logo: images/logos/Default.svg
-          url: https://www.kpezp.cn/jlexi.php?url=
           description: 
 
         - title: 1717云视频解析

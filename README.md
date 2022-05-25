@@ -7,7 +7,7 @@
 在[webstack-hugo-v2.0rc2](https://github.com/iplaycode/webstack-hugo/releases/tag/2.0rc2)的基础上进行了一些简单的改动，详见[commits](https://github.com/BahuangShanren/webstack-hugo/commits/master)，以下仅列举部分：
 
 - [x] 使用自定义的网站和图标。
-- [x] 网站图标使用矢量SVG格式，全部是我自己画的。
+- [x] 网站图标使用矢量SVG格式，全部是我自己画的，因为大部分网站使用的图标都不是SVG，属实不够现代化。
 
     > 仅部分复杂图标未使用矢量，见[not-vector-logo.txt](/static/images/not-vector-logo.txt)。
 
@@ -19,7 +19,7 @@
 - [x] 精简搜索引擎。
 - [x] 搜索框移动到顶栏。
 - [x] 使用按钮切换暗色模式，而不是在`config.toml`中直接指定是否启用暗色模式。
-- [x] 删除失效站点，截至2022/03/08。
+- [x] 删除失效站点，截至2022/05/25。
 - [x] 次级菜单支持自定义图标。
 
 ## 提示
@@ -27,6 +27,8 @@
 - 修改[/data/webstack.yml](/data/webstack.yml)来自定义网站。
 - [/data/webstack.yml](/data/webstack.yml)中的图片位于[/static/images/logos](/static/images/logos)目录下。
 - 使用[Font Awesome_v4.7.0](https://fontawesome.dashgame.com/)，使用时注意图标引用格式。
+- 如果不想手动适配网站的图标，可以使用[一为 API
+](https://api.iowen.cn/doc/favicon.html)自动获取。
 
 ## 致谢
 
